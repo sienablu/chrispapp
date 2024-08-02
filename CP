@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chris Papp - Business Development and Partnership Manager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #003366;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main-content {
+            background: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #003366;
+        }
+        .contact-info {
+            text-align: center;
+            padding: 10px 0;
+        }
+        .contact-info a {
+            color: #003366;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        .skills, .work-history, .achievements, .certifications, .volunteer {
+            margin-top: 20px;
+        }
+        .skills ul, .work-history ul, .achievements ul, .certifications ul, .volunteer ul {
+            list-style: none;
+            padding: 0;
+        }
+        .skills li, .work-history li, .achievements li, .certifications li, .volunteer li {
+            background: #eaeaea;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #003366;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Chris Papp</h1>
+            <p>Business Development and Partnership Manager</p>
+        </div>
+    </header>
+    <div class="container">
+        <div class="main-content">
+            <section class="about">
+                <h2>About Me</h2>
+                <p>As an accomplished CEO with nearly 25 years of experience, I have a proven track record of driving results and building successful businesses in Canada and internationally, with subsidiaries in China and Hong Kong. My expertise in sales, global sourcing, and industry knowledge enables me to develop and execute innovative strategies. I possess a unique perspective, with an agile approach to new challenges, and a keen ability to read people and anticipate market trends. I have successfully built and managed teams across multiple countries, and I am excited to leverage my skills in new and exciting roles.</p>
+                <p>I am a results-driven Strategic Alliances & Partnerships Director with a consistent track record of driving $20M+ in annual growth. I am passionate about forging mutually beneficial relationships that fuel innovation and success in the retail and supply chain sectors.</p>
+                <p>Over 20+ years, I've honed my expertise in:</p>
+                <ul>
+                    <li>Business Development: Identifying and seizing strategic opportunities to expand market reach and consistently exceed revenue targets.</li>
+                    <li>Supply Chain Optimization: Streamlining complex logistics operations to enhance efficiency and reduce costs.</li>
+                    <li>Partnership Building: Establishing trust-based relationships with key stakeholders to foster collaboration and mutual success.</li>
+                </ul>
+                <p>As an AI advocate, I actively explore how this transformative technology can revolutionize our industry. I am passionate about leveraging AI to unlock new growth opportunities, streamline processes, enhance customer experiences, and uncover valuable insights that drive informed decision-making.</p>
+                <p>My success is rooted in a deep understanding of business objectives, strong negotiation skills, and a relentless focus on delivering measurable results. I am committed to fostering a collaborative and innovative environment where partnerships thrive and businesses flourish.</p>
+                <p>Let's connect and explore how we can leverage our combined expertise to propel your organization to new heights.</p>
+            </section>
+            <section class="contact-info">
+                <h2>Contact Information</h2>
+                <p>Email: <a href="mailto:cgpapp@gmail.com">cgpapp@gmail.com</a> | <a href="https://www.linkedin.com/in/chris-papp/" target="_blank">LinkedIn</a></p>
+            </section>
+            <section class="skills">
+                <h2>Professional & Technical Skills</h2>
+                <ul>
+                    <li>Relationship cultivation & entrepreneurship</li>
+                    <li>Cross-functional leadership</li>
+                    <li>Transparency, social responsibility & client satisfaction</li>
+                    <li>Coaching & mentoring approach</li>
+                    <li>Strong emotional intelligence</li>
+                    <li>Exceptionally calm under pressure</li>
+                    <li>Farsighted manager with an ability to see what will be needed in the future</li>
+                    <li>Financial planning & analysis</li>
+                    <li>Business development, sales strategy, budgeting & forecasting</li>
+                    <li>Operations management, contract negotiation & procurement marketing</li>
+                    <li>Softwares: Microsoft Office Suite, Access, ARIBA, Salesforce, Taulia (an SAP solution) & QuickBooks</li>
+                </ul>
+            </section>
+            <section class="work-history">
+                <h2>Professional Experience</h2>
+                <ul>
+                    <li>
+                        <h3>SienaBlu | April 2006 – April 2024</h3>
+                        <p>Founder & President, Montreal & Hong Kong</p>
+                        <ul>
+                            <li>Streamlined design, sourcing, manufacturing, packaging, marketing, and distribution.</li>
+                            <li>Oversaw operations and procurement across multiple teams in Canada, Hong Kong, and Mainland China.</li>
+                            <li>Managed relationships with key accounts including PepsiCo Canada, Groupe Marcelle, and more.</li>
+                            <li>Spearheaded financial aspects, including budget forecasting and securing government grants.</li>
+                            <li>Championed global expansion to Hong Kong.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h3>M.O.D.A Folio Int Inc. | May 1998 – April 2006</h3>
+                        <p>Vice President</p>
+                        <ul>
+                            <li>Drove strategic vision for design, manufacturing, sales, marketing, and quality control processes.</li>
+                            <li>Managed a team of four and sales of over $8M.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+            <section class="achievements">
+                <h2>Key Achievements</h2>
+                <ul>
+                    <li>Elevated SienaBlu to Bronze Status with EcoVadis for sustainability initiatives.</li>
+                    <li>Partnered with the United Nations on the SDG Ambition Accelerator program.</li>
+                    <li>Increased Henkel's revenue from $550K to $7M between 2018 and 2022.</li>
+                    <li>Became the go-to supplier for Groupe Marcelle, generating $1M in sales annually.</li>
+                    <li>Secured a $1.5M annual contract with L'Anza (Davexlabs LLC).</li>
+                </ul>
+            </section>
+            <section class="certifications">
+                <h2>Certifications</h2>
+                <ul>
+                    <li>Certified SDG Ambition Accelerator, United Nations Global Compact</li>
+                </ul>
+            </section>
+            <section class="volunteer">
+                <h2>Volunteer Experience</h2>
+                <ul>
+                    <li>Co-Chair of the Montreal Open, Miriam Foundation (2006 – 2011)</li>
+                    <li>Participant, Dancing with the Stars, Montreal Children's Hospital Fundraiser (2018)</li>
+                    <li>Director, Miriam Foundation (2009 – 2017)</li>
+                </ul>
+            </section>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Chris Papp. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
